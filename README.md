@@ -1,9 +1,11 @@
 
 Description:
+
 A modern Student Information LMS web application built with Vue.js. Features include student profile
 management, API-based data fetching, client-side routing, and a professional, responsive interface. Perfect for academic record tracking and lightweight LMS functionality.
 
 Features:
+
 • Dynamic student directory with profile avatars
 • Fetches student data from public APIs
 • Interactive table and modal for detailed views
@@ -12,6 +14,7 @@ Features:
 • Fully component-based architecture (Header, StudentCard, etc.)
 
 Tech Stack:
+
 • Vue 3 (Composition API)
 • Vue Router
 • Axios (for API calls)
